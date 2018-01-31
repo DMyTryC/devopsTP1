@@ -1,0 +1,29 @@
+# Etape 1,2
+## Creation du git serveur sur github.com
+mkdir devopsTP1
+cd devopsTP1
+git init
+gedit README
+git add README
+git commit -m "..."
+git remote add origin https://github.com/DMyTryC/devopsTP1.git
+git push origin master
+
+# Etape 3,4
+gedit AUTHORS
+git add AUTHORS
+git commit -m "Etape 3 : ..."
+git push
+git push --set-upstream origin master
+
+## Upstream
+Par defaut, les modifications appliquees a la branche master du depot local
+ne peuvent pas etre push sur le depot serveur(mode conservatif simple). Il faut autoriser ce dépot local
+a pouvoir push ses modifications sur le depot serveur. La commande --set-upstream nous permet de 
+initialiser une branche "amont" qui sera la branche origin.
+
+# Etape 5
+mkdir CR
+cd CR
+gedit initial_steps.txt
+
