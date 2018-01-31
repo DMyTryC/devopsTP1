@@ -2,3 +2,6 @@ Comme les changements ont ete rendu public
 git revert HEAD^
 
 On a annule le dernier commit
+
+Pour l'annulation de modification
+git checkout -- <fichier>
