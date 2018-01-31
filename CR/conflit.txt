@@ -4,3 +4,4 @@ Sur la branche master : git merge fork1
 Resolution de conflits : Suppression des entetes qui ont ete inseres par git
 Et donc concatenation des contenus de deux fichiers
 
+Je ne sais pas comment resoudre un conflit
