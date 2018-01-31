@@ -1,0 +1,5 @@
+La commande blame nous donne les personnes qui ont fait des mofications pour chaque ligne, 
+ainsi que la date et le temps de modification
+
+-e nous donne l'email au lieu du nom
+
