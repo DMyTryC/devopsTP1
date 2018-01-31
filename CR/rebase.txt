@@ -1,0 +1,7 @@
+git checkout fork2
+git rebase master
+
+# Fast forward
+Apres le rebase la tete de la branche master est toujours sur le dernier commit effectue
+En faisant un git merge fork2 on "fast-forward" la tete de la branche master vers la tete de la branche qui a ete rebased
+
