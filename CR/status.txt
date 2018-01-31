@@ -1,0 +1,12 @@
+Creation de trois fichiers
+
+Pour le fichier notStaged : git add <fichier>
+Pour le fichier changesToBeCommited : git add, git commit, modification du fichier
+Pour le fichier untracked : rien
+
+
+On peux avoir un fichier marque comme indexed et modified si on fait un add sur un fichier et apres on le modifie
+Le fichier sera indexe car on veux le rajouter et modifie car on la modifie
+
+On peux avoir un fichier dans les trois categories si on fait un add et apres on le renomme
+Le fichier sera indexe car on veux le rajouter, supprime car on a change de nom et non indexe car le nom a change
