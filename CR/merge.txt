@@ -1,0 +1,2 @@
+On passe dans la branche destinataire du merge 
+On fait un git merge fork1 
