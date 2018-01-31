@@ -1,0 +1,2 @@
+gedit .gitignore
+Rajout de : *.pdf et tmp/
