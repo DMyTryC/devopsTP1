@@ -1,0 +1,5 @@
+1. git nous incite a commit nos modifications ou bien a les "stash" avant de pouvoir changer de branch
+2. On peut "stash" nos modifications, c'est-a-dire sauvegarder l'état de la branche courante
+3. le fichier confilt n'a pas été modifié car il n'a pas été commit
+4. git stash list
+5. git stash pop

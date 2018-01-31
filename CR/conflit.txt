@@ -4,3 +4,5 @@ Sur la branche master : git merge fork1
 Resolution de conflits : Suppression des entetes qui ont ete inseres par git
 Et donc concatenation des contenus de deux fichiers
 
+On utilise la commande stash quand on veut sauvegarder l'état courant de notre branche
+sans pour autant commit les modifications afin de pouvoir changer de branche.
