@@ -1,0 +1,5 @@
+1. git branch fork1
+2. git branch
+3. Une etoile est affiche quand on fait git branch pour referencer la branche actuelle
+4. git checkout <nom_de_la_branche>
+5. Dans la branche master le repertoire brancheTest n'existe pas
