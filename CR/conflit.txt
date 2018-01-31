@@ -1,0 +1,6 @@
+Creation de deux fichiers qui ont le nom conflit sur les deux branches
+Ecriture du contenu differrent dans chaque fichier
+Sur la branche master : git merge fork1
+Resolution de conflits : Suppression des entetes qui ont ete inseres par git
+Et donc concatenation des contenus de deux fichiers
+
